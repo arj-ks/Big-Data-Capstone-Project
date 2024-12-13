@@ -1,0 +1,1 @@
+The project aims to develop a simple recommendation system for movies using collaborative filtering in PySpark, demonstrating the practical use of Spark's machine learning capabilities and its application in big data technologies.
